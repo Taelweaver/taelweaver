@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Chief of development and observation in technology obselence prevention and restoration department at the D.I.Y Industries United Inc. Freelance software support and custom software integration for the purposes of boosting lightweight device efficiency. Consultant on D.I.Y. Industries United Inc. budget spending, proudly adapting potentially unoptimal resources into company's workflow while strategically upgrading elements to extend resource's natural lifespan. 
+Chief of development and observation in technology obselence prevention and restoration department at D.I.Y Industries United Inc. Freelance software support and custom software integration for the purposes of boosting lightweight device efficiency. Consultant on D.I.Y. Industries United Inc. budget spending, proudly adapting potentially unoptimal resources into company's workflow while strategically upgrading elements to extend resource's natural lifespan. 
 
 Skills include: 
 13 years of operation on 16-bit recreational rendering hardware
